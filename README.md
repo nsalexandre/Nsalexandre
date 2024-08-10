@@ -6,12 +6,13 @@ Advogado em transição para a área de tecnologia, cursando programação na **
 
 ## O que estou aprendendo 🚀
 
-- **Desenvolvimento Fullstack:** Estou me aprofundando em tecnologias como HTML, CSS, JavaScript, React, Node.js, e outras.
+- **Desenvolvimento Fullstack:** Estou me aprofundando em tecnologias como Python, HTML, CSS, JavaScript, React, Node.js, e outras.
 - **Resolução de Problemas:** Aplicando minhas habilidades analíticas desenvolvidas no campo jurídico para solucionar desafios tecnológicos.
 - **Colaboração e Trabalho em Equipe:** Buscando sempre ambientes de trabalho que fomentem a troca de conhecimento e a aprendizagem mútua.
 
 ## Minhas Habilidades 🛠️
 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,9 +28,9 @@ Advogado em transição para a área de tecnologia, cursando programação na **
 
 ## Entre em contato comigo 📫
 
-- **Email:** [seuemail@exemplo.com](mailto:nsalexandre@outlook.com)
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/nsalexandre)
-- **Instagram:** [Seu Instagram](https://instagram.com/nsalexandre_)
+- **Email:** [nsalexandre@outlook.com](mailto:nsalexandre@outlook.com)
+- **LinkedIn:** [nsalexandre](https://www.linkedin.com/in/nsalexandre)
+- **Instagram:** [nsalexandre_](https://instagram.com/nsalexandre_)
 
 ---
 
