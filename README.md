@@ -12,13 +12,42 @@ Advogado em transição para a área de tecnologia, cursando programação na **
 
 ## Minhas Habilidades 🛠️
 
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
-| **HTML5**  | **CSS3**  | **JavaScript**  | **React**  |
-| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | |
-| **Node.js** | **Python** | **Git** | |
-
+<p align="center">
+    <table>
+        <tr>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+                <br>HTML5
+            </td>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+                <br>CSS3
+            </td>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+                <br>JavaScript
+            </td>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+                <br>React
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
+                <br>Node.js
+            </td>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+                <br>Python
+            </td>
+            <td align="center" width="140">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+                <br>Git
+            </td>
+        </tr>
+    </table>
+</p>
 
 ## Como posso contribuir 💡
 
